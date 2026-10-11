@@ -22,7 +22,7 @@ body{
     text-align: center;
 }
 
-#searchbar{
+#search-form{
     display: flex;
     justify-content: center;
     margin-top: 5dvh;
